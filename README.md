@@ -4,8 +4,8 @@ Here is the project on Inventory Managment System. The project consists of two i
 
 I have included 4 features in my project:
 
-Product-ID
-Product Name
-Quantity
-Price
+1. Product-ID
+2. Product Name
+3. Quantity
+4. Price
 I have used Json file management system and main codes written in .ipynb format
