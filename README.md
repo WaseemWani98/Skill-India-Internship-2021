@@ -1,5 +1,7 @@
 # Skill-India-Internship-2021
-## Basic Inventory Management System
+
+-----
+### Basic Inventory Management System
 
 1️⃣ This project is made to mimic/implement the basic Inventory Managment System.
 
@@ -50,10 +52,12 @@
 🔔 Code written in : .ipynb (Jupyter Notebook)
 
 
+-----
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+-----
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
