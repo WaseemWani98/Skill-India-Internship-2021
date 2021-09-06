@@ -1,7 +1,7 @@
 # Skill-India-Internship-2021
 This repository contains my internship project named "Inventory Management System" created using Python and JSON for AI/ML Skill India Internship by Elite Techno Groups. Technology used: Python and JSON.
------
-### 🥇 Basic Inventory Management System
+
+## 🥇 Basic Inventory Management System
 
 1️⃣ This project is made to mimic/implement the basic Inventory Managment System.
 
@@ -54,7 +54,7 @@ This repository contains my internship project named "Inventory Management Syste
 
 
 -----  
-## Environment Variables and Libraries
+### Environment Variables and Libraries
 
 To run this project,
 - your system should have python 3.x
@@ -64,14 +64,14 @@ To run this project,
 
 
 -----
-## Learning Outcomes
+### Learning Outcomes
 - Using dictionary to store data in tabular form.
 - Parsing data in the form of json and back to string.
 - File Handling
 
 
 -----
-## Contributing
+### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
@@ -86,5 +86,5 @@ Please make sure to update tests as appropriate.
 
 
 -----
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
