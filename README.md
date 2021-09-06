@@ -59,5 +59,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 -----
+### Connect with me on:
+
+LinkedIn - https://www.linkedin.com/in/waseem-ud-din-wani/
+
+-----
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
