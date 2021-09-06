@@ -8,4 +8,5 @@ I have included 4 features in my project:
 2. Product Name
 3. Quantity
 4. Price
+
 I have used Json file management system and main codes written in .ipynb format
