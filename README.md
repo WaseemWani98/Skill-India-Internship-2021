@@ -1,12 +1,32 @@
 # Skill-India-Internship-2021
+# Basic Inventory Management System
 
-Here is the project on Inventory Managment System. The project consists of two ipynb files of Purchasing the items from the inventory and adding the items to the inventory which contains the basic code for it. The other files attached are the sales.json file and the record.json file which consists of the total sales that has taken place and the database of the inventory and the number of items present respectively. The project basicly is an Inventory which is used either as a Storage or a Buying Platform.
+1️⃣This project is made to mimic/implement the basic Inventory Managment System. 
+2️⃣The whole project consists of  1 ipynb file with the code for Adding and Purchasing Items to and from the Inventory.
+3️⃣The other files attached are the sales.json file which represents the total sale that has happened and the record.json file which is the database of the inventory consisting data about the number of items present respectively.
 
-I have included 4 features in my project:
+➡➡Till now the project has features like:
+✡ Add New products or existing items in the Inventory
+  🔘 Products have details like:
+     🟦 Product Name
+     🟦 Product ID
+     🟦 Price
+     🟦 Manufacturer
+     🟦 Expiry Date
+     
+✡ Get the total no. of products in the Inventory
 
-1. Product-ID
-2. Product Name
-3. Quantity
-4. Price
+✡ Purchase Products from the Inventory
 
-I have used Json file management system and main codes written in .ipynb format
+✡ Purchase multiple Products in one go
+
+✡ Dispaly the available Products in the Inventory
+
+✡ Bill Generation with exact date and timestamp
+
+✡ Maintaining a record of sales happened according to transaction id
+
+
+Database type: .json format
+
+Code written in : .ipynb (Jupyter Notebook)
