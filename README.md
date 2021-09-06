@@ -5,44 +5,46 @@
 
 2️⃣The whole project consists of  1 ipynb file with the code for Adding and Purchasing Items to and from the Inventory.
 
-3️⃣The other files attached are the sales.json file which represents the total sale that has happened and the record.json file which is the database of the inventory consisting data about the number of items present respectively.
+3️⃣The other files attached are the sales.json file which represents the total sale that has happened and the record.json file which is the database of the inventory consisting
+  data about the number of items present respectively.
 
-➡➡Till now the project has features like:
 
-✡ Add New products or existing items in the Inventory
+🥇 Till now the project has features like:
 
-  🔘 Products have details like:
+✅ Add New products or existing items in the Inventory
+
+ 🎖 Products have details like:
   
-     🟦 Product Name
+    🏆 Product Name
      
-     🟦 Product ID
+    🏆 Product ID
      
-     🟦 Price
+    🏆 Price
      
-     🟦 Manufacturer
+    🏆 Manufacturer
      
-     🟦 Expiry Date
+    🏆 Expiry Date
      
      
-✡ Get the total no. of products in the Inventory
+✅ Get the total no. of products in the Inventory
 
 
-✡ Purchase Products from the Inventory
+✅ Purchase Products from the Inventory
 
 
-✡ Purchase multiple Products in one go
+✅ Purchase multiple Products in one go
 
 
-✡ Dispaly the available Products in the Inventory
+✅ Dispaly the available Products in the Inventory
 
 
-✡ Bill Generation with exact date and timestamp
+✅ Bill Generation with exact date and timestamp
 
 
-✡ Maintaining a record of sales happened according to transaction id
+✅ Maintaining a record of sales happened according to transaction id
 
 
 
-Database type: .json format
+🔔 Database type: .json format
 
-Code written in : .ipynb (Jupyter Notebook)
+🔔 Code written in : .ipynb (Jupyter Notebook)
