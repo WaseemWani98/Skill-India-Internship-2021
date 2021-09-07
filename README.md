@@ -82,8 +82,7 @@ Please make sure to update tests as appropriate.
 ### Connect with me here :
 
 <p align="left">
-<a href="
-https://twitter.com/er_waseemWani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Waseem" height="30" width="40" /></a>
+<a href="https://twitter.com/er_waseemWani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Waseem" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/waseem-ud-din-wani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Waseem" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itz__waseem___/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Waseem" height="30" width="40" /></a>
 <a href="https://www.facebook.com/waseemuddin.wani.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Waseem" height="30" width="40" /></a>
