@@ -1,5 +1,7 @@
 # Skill-India-Internship-2021
-This repository contains my internship project named "Inventory Management System" created using Python and JSON for AI/ML Skill India Internship by Elite Techno Groups. Technology used: Python and JSON.
+- This repository contains my internship project IMS (Inventory Management System), created using Python and JSON.
+- This project is a part of my Internship with Elite Techno Groups as a Machine Learning Intern.
+- Technology used: Python and JSON.
 
 ## 🥇 Basic Inventory Management System
 
